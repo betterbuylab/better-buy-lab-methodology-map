@@ -1,29 +1,28 @@
 {
   "repoName": "better-buy-lab-methodology-map",
-  "description": "Public map of Better Buy Lab methodology, verification policy, affiliate disclosure, editorial policy, and update logic.",
-  "homepage": "https://www.betterbuylab.com",
+  "shortDescription": "Public map of Better Buy Lab methodology, verification policy, editorial policy, affiliate disclosure, and claim boundaries.",
+  "description": "Public map of Better Buy Lab methodology, verification policy, editorial policy, affiliate disclosure, and claim boundaries.",
+  "homepage": "https://www.betterbuylab.com/",
   "topics": [
     "betterbuylab",
     "editorial-policy",
-    "verification",
+    "verification-policy",
     "affiliate-disclosure",
+    "methodology",
     "buying-guides",
     "product-research",
+    "claim-boundaries",
     "trust",
-    "compliance"
+    "transparency"
   ],
   "visibility": "public",
   "pinnedRecommendation": true,
+  "profilePurpose": "Trust and methodology summaries with claim boundary documentation.",
   "primaryWebsitePages": [
     "/methodology",
     "/verification-policy",
     "/affiliate-disclosure",
     "/editorial-policy"
   ],
-  "siblingRepos": [
-    "better-buy-lab-resources",
-    "shopping-verification-checklist",
-    "affiliate-scope-and-disclosure-map"
-  ],
-  "complianceNotes": "Policy-focused; no commerce promotion."
+  "complianceNotes": "Policy-focused; documents what must not be claimed without verification."
 }
