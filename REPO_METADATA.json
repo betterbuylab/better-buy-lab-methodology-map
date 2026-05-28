@@ -1,0 +1,29 @@
+{
+  "repoName": "better-buy-lab-methodology-map",
+  "description": "Public map of Better Buy Lab methodology, verification policy, affiliate disclosure, editorial policy, and update logic.",
+  "homepage": "https://www.betterbuylab.com",
+  "topics": [
+    "betterbuylab",
+    "editorial-policy",
+    "verification",
+    "affiliate-disclosure",
+    "buying-guides",
+    "product-research",
+    "trust",
+    "compliance"
+  ],
+  "visibility": "public",
+  "pinnedRecommendation": true,
+  "primaryWebsitePages": [
+    "/methodology",
+    "/verification-policy",
+    "/affiliate-disclosure",
+    "/editorial-policy"
+  ],
+  "siblingRepos": [
+    "better-buy-lab-resources",
+    "shopping-verification-checklist",
+    "affiliate-scope-and-disclosure-map"
+  ],
+  "complianceNotes": "Policy-focused; no commerce promotion."
+}

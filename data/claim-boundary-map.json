@@ -1,0 +1,22 @@
+[
+  {
+    "claim": "hands-on tested",
+    "allowed": false,
+    "notes": "Unless page explicitly supports"
+  },
+  {
+    "claim": "live price",
+    "allowed": false,
+    "notes": "Requires verification"
+  },
+  {
+    "claim": "in stock",
+    "allowed": false,
+    "notes": "Requires verification"
+  },
+  {
+    "claim": "best overall proven",
+    "allowed": false,
+    "notes": "Use buyer-fit framing"
+  }
+]
